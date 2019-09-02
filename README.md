@@ -5,15 +5,16 @@ This project is in constant change, but its purpose is to produce a table contai
 
 The current table layout has:
 
-ID
-Path
-Filename
-Extension
-Date
-Bytes
-Tag List
-Status
-Comment
+- ID
+- Path
+- Filename
+- Extension
+- Date
+- Bytes
+- Tag List
+- Status
+- Comment
+
 The code is run in 3 modes:
 
 Mapping Mode - it will take a list of parent folders and return all the files on folder and subfolders contained on those parent folders, organized according to the table described above.
