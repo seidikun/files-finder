@@ -1,0 +1,14 @@
+mappedFolders;status
+Z:\WAP_DATA_ANAL;include
+Z:\Logistics and organization;include
+Z:\Development;include
+Z:\Tranfers;skip
+Z:\Presentations;skip
+X:\;include
+Y:\;skip
+boost;skip
+WAP5;skip
+eeglab;skip
+WAP.Versions;skip
+MRI DATA;skip
+deleted;skip
