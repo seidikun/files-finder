@@ -103,13 +103,13 @@ class folders_mapper():
         
         if files_list.empty:       
             print('Reading ' + params.dict_params['list_filename'])
-            files_list = pd.read_csv(params.dict_params['list_filename'], delimiter = ';')
+            files_list = pd.read_csv(params.dict_params['list_filename'])
             print(files_list.columns)
         else:
             choice_read = int(input('Read from filesList.csv? (0 NO | 1 YES) '))
             if choice_read:
                 print('Reading ' + params.dict_params['list_filename'])
-                files_list = pd.read_csv(params.dict_params['list_filename'], delimiter = ';')
+                files_list = pd.read_csv(params.dict_params['list_filename'])
                 
         params.dict_params['extensions'] = list(set(files_list.extension))
         params.dict_params['extensions'].sort()
