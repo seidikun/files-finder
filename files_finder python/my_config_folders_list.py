@@ -16,7 +16,7 @@ class params():
         
         dict_params['list_filename']   = 'filesList.csv'
         
-        dict_params['folder_filtered'] = 'C:\\Users\\wap\\Documents\\GitHub\\files-finder\\files_finder python\\filtered_lists'  
+        dict_params['folder_filtered'] = 'C:\\Users\\wap\\Documents\\GitHub\\files-finder\\files_finder python\\filtered_lists\\'  
         
         dict_params['date_format']     = '%d_%m_%Y'
         
