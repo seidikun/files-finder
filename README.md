@@ -29,3 +29,6 @@ Produce headers for experiments. In this case, you can map the data parent folde
 Do a state-of-art review on a topic. Find all papers with certain tags and produce a table where you can add your comments as you read the papers
 Find copies of a file inside any of the mapped folders or subfolders
 OBS.: Tags, Status and Comments are completed manually. But external codes or modifications to the project can be done, such data those fields can be completed automatically, or semi-automatically
+
+## TODO
+- Add option to compare 2 folders and see if they are duplicates 
